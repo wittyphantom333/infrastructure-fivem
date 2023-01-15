@@ -1,4 +1,4 @@
-FROM debian:bullseye-20220912-slim
+FROM debian:bullseye-20230109-slim
 
 LABEL maintainer="me@グルーバー.com"
 LABEL org.opencontainers.image.source = "https://github.com/gruberdev/infrastructure-fivem"
